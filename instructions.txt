@@ -1,0 +1,19 @@
+First, unzip the ResourcePacks.zip file. Inside are multiple zip files. Put all of these into your resource packs folder. All of these
+are completely optional but really add a nice layer of depth to Minecraft. It's my personal setup. In the instruction below, I explain
+how to structure them in the resource pack menu. I call some of them optional, while they all are really optional. A couple I threw
+in for the laughs. The only one you REALLY need is better leaves. Otherwise, leaves are gonna look a little empty with their performance
+changes.
+
+The resource packs should be put into this order from bottom to top. (You can change the order in the resource packs screen by clicking up and down arrows. 
+This sets their priority which I have carefully structured to get all of the features added.) 
+Bottom: Better Leaves. This makes leaves look nicer and works with the preformance mod for best visuals and performance with leaves.
+Above that: Faithful 64x. This pack is the base and makes everything 64x64 resolution quadrupling the games texture resolution.
+Above that: VanillaTweaks1.19.3.v2 This pack adds some nice enhancements to the games visuals. I will have a full list in this repository.
+Above VanillaTweaks: Totem of Jeb. This is an optional meme pack that replaces the totem of undying with screaming jeb. (No sounds added.) How nice of him to sacrafice. Ignore the outdated message.
+Above that: HD Shield banners, then English Enchants, then Fabric Mods, then eating animations. (Eating animations and Fabric Mods are built-in with the eating animation mod and fabric launcher.)
+
+You then need to take all of the jar files and put them into your mod folders. It's best to have NOTHING else in there. If you have ANY other jar files in there it could cause problems. I have
+place absolutely everything you need for everything to work into the zip folder. Just move any mods you already use somewhere else and store them somewhere if you want to use them later.
+Then, extract the zip file into your mod folder. Minecraft might take a little bit to load the first time. This is because it sets everything up. After it completly loads and you're on the main menu,
+I reccomend quitting and re-launching the game to see how fast it loads the second time. It should be noticeably faster than normal. Then, just join the server or play your favorite world and everything
+should work.
