@@ -1,0 +1,58 @@
+
+List of changes that Vanilla Tweaks makes. Mostly 3d models for things like rails and fixes like eating particles from bowls... Who eats the bowl? XD
+You can make your own and see more detailed information on the one's listed here: https://vanillatweaks.net/picker/resource-packs/
+
+Packs:
+	NoBowlParticles
+	CloudFogFix
+	NoOptionsBGOverlay
+	SmootherFont
+	NumberedHotbar
+	MoreCrosshairs-PlusDot
+	PingColorIndicator
+	3DStonecutters
+	3DTrapdoors
+	3DDoors
+	3DChains
+	3DSugarcane
+	3DIronBars
+	3DRails
+	3DLadders
+	3DBookshelves
+	3DPointedDripstone
+	3DMushrooms
+	3DVines
+	3DGlowLichen
+	3DLilyPads
+	UnobtrusiveRain
+	UnobtrusiveSnow
+	LowerFire
+	AlternateEnchantGlint
+	TransparentPumpkin
+	NoVignette
+	LowerShield
+	CleanerWorldBorder
+	VisibleTripwires
+	ArabicNumerals
+	NoteblockBanners
+	FullAgeCropMarker
+	Age25Kelp
+	BetterObservers
+	QuieterRain
+	QuieterWater
+	NoCaveSounds
+	QuieterNetherPortals
+	QuieterFire
+	CircularSunandMoon
+	GoldenCrown
+	ProperBreakParticles
+	DirectionalHoppers
+	RedstonePowerLevels
+	CleanRedstoneDust
+	FullAgeAmethystMarker
+	3DAmethyst
+
+Combined packs:
+	3DAmethyst+FullAgeAmethystMarker
+	CleanRedstoneDust+RedstonePowerLevels
+	DirectionalHoppers+ProperBreakParticles
