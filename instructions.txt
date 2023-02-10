@@ -14,6 +14,4 @@ Above that: HD Shield banners, then English Enchants, then Fabric Mods, then eat
 
 You then need to take all of the jar files and put them into your mod folders. It's best to have NOTHING else in there. If you have ANY other jar files in there it could cause problems. I have
 place absolutely everything you need for everything to work into the zip folder. Just move any mods you already use somewhere else and store them somewhere if you want to use them later.
-Then, extract the two zip files into your mod folder. Part one and part two. Minecraft might take a little bit to load the first time. This is because it sets everything up. After it completly loads and you're on the main menu,
-I reccomend quitting and re-launching the game to see how fast it loads the second time. It should be noticeably faster than normal. Then, just join the server or play your favorite world and everything
-should work.
+Then, extract the two zip files into your mod folder. Part one and part two. Minecraft might take a little bit to load the first time. This is because it sets everything up. You might notice that minecraft loads a little faster than normal. Joining worlds and possibly even servers takes a few seconds less. This is because of all the performance.
